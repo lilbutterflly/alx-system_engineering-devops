@@ -1,2 +1,2 @@
 #!/bin/bash
-file --magic-file=magic school
+file -C -m school.mgc
